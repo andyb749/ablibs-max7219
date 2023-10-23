@@ -1,0 +1,27 @@
+{
+    "name": "ablibs-max7219",
+    "version": "0.0.1-alpha",
+    "description": "MAX7219 LED driver",
+    "keywords": "LED, MAX7219, I2C, SPI",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/andyb749/ablibs-max7219.git"
+    },
+    "export": {
+        "include": [
+            "src/*.c",
+            "src/*.cpp",
+            "src/*.h"
+        ]
+    },
+    "authors": [
+        {
+            "name": "AndyB",
+            "email": "andyb749@hotmail.com",
+            "maintainer": true
+        }
+    ],
+    "license": "MIT",
+    "frameworks": "arduino",
+    "platforms": "*"
+}

@@ -1,13 +1,15 @@
 ###########################################
 # Syntax Colouring Map For MAX7219
 ###########################################
-
+Max7219 KEYWORD1
+Max7219Matrix   KEYWORD1
+Max7219SevenSeg KEYWORD1
 ###########################################
 # Datatypes (KEYWORD1)
 ###########################################
-
 Max7219	KEYWORD1
-
+Max7219Matrix   KEYWORD1
+Max7219SevenSeg KEYWORD1
 ###########################################
 # Methods and Functions (KEYWORD2)
 ###########################################
